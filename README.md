@@ -1,4 +1,4 @@
-# 📋 Application de Réservation - Arrondissement
+# 📋 Application de Réservation
 
 Cette application permet de gérer les réservations des terrains et salles d'une arrondissement.  
 Elle propose une interface moderne, sécurisée par une page de connexion, et de nombreuses fonctionnalités pratiques.
