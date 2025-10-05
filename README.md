@@ -1,6 +1,6 @@
-# 📋 Application de Réservation - Arrondissement Ben M'sick
+# 📋 Application de Réservation - Arrondissement
 
-Cette application permet de gérer les réservations des terrains et salles de l’arrondissement Ben M'sick.  
+Cette application permet de gérer les réservations des terrains et salles d'une arrondissement.  
 Elle propose une interface moderne, sécurisée par une page de connexion, et de nombreuses fonctionnalités pratiques.
 
 ---
@@ -67,7 +67,7 @@ Le fichier `.exe` sera dans le dossier `dist`.
 
 ## ✨ Auteurs & Remerciements
 
-Développé pour l’arrondissement Ben M'sick  
+Développé pour une arrondissement  
 Design & code : [Hamdi Imrane]
 
 ---
