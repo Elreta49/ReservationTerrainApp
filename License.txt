@@ -1,0 +1,12 @@
+📄 INFORMATIONS SUR LE PROJET
+
+Ce projet de réservation a été développé par Hamdi Imrane.
+
+🔐 Conditions d’utilisation :
+- Ce logiciel est fourni gratuitement pour un usage personnel ou associatif.
+- Il est strictement interdit de le vendre, de le modifier ou de le redistribuer sans autorisation écrite de l’auteur.
+- Toute tentative d’appropriation ou de commercialisation sans accord préalable est considérée comme une violation des droits de l’auteur.
+
+📞 Contact : (0103.ihamdi@gmail.com)
+
+Merci de respecter le travail du développeur. 

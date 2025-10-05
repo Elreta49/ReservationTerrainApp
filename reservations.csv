@@ -1,0 +1,5 @@
+N°,nom,type_demandeur,Téléphone,date,heure,durée,terrain_demandé,Remarque
+writer.writerow([
+"    ""Numéro"""," ""Nom"""," ""Type de demandeur"""," ""Terrain demandé"""," ""Date""",
+"    ""Heure début"""," ""Heure fin"""," ""Durée"""," ""Téléphone"""," ""Montant"""," ""État paiement"""
+])
